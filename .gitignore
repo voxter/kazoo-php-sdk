@@ -6,3 +6,5 @@ index.php
 composer.lock
 vendor/
 vendor/*
+*~
+lib/hz2600/Kazoo/Tests/phpunit.xml
